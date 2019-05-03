@@ -1,0 +1,8 @@
+this is a text file.
+it contains many words.
+this is an example for simple text file.
+another text
+this is no tex
+NANANAtext
+text
+tex texta
